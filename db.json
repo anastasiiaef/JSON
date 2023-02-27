@@ -28,9 +28,19 @@
           "name": "Orange",
           "description": "",
           "calories": 43
+        },
+        { "id": 6,
+          "name": "Bread",
+          "description": "",
+          "calories": 85
+        },
+        { "id": 7,
+          "name": "Beans",
+          "description": "",
+          "calories": 36
         }
-      ]
-    }
+  ]
+}
 
 
 
