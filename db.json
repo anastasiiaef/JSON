@@ -41,6 +41,12 @@
         "name": "Beans",
         "description": "",
         "calories": 36
-      }
+      },
+    {
+      "id": 8,
+      "name": "Avocado",
+      "description": "",
+      "calories": 84
+    }
   ]
 }
