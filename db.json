@@ -1,36 +1,35 @@
 
-{
-  "food": [
-        { "id": 1,
-          "name": "Apple",
-          "description": "",
-          "calories": 53
-        },
-        {
-          "id": 2,
-          "name": "Milk",
-          "description": "",
-          "calories": 140
-        },
-        { "id": 3,
-          "name": "Egg",
-          "description": "",
-          "calories": 65
-        },
-        {
-          "id": 4,
-          "name": "Banana",
-          "description": "",
-          "calories": 155
-        },
-        {
-          "id": 5,
-          "name": "Orange",
-          "description": "",
-          "calories": 43
-        }
-      ]
-    }
+ [
+      { "id": 1,
+        "name": "Apple",
+        "description": "",
+        "calories": 53
+      },
+      {
+        "id": 2,
+        "name": "Milk",
+        "description": "",
+        "calories": 140
+      },
+      { "id": 3,
+        "name": "Egg",
+        "description": "",
+        "calories": 65
+      },
+      {
+        "id": 4,
+        "name": "Banana",
+        "description": "",
+        "calories": 155
+      },
+      {
+        "id": 5,
+        "name": "Orange",
+        "description": "",
+        "calories": 43
+      }
+ ]
+
 
 
 
