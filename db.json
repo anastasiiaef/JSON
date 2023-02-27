@@ -25,29 +25,5 @@
     "name": "Egg",
     "description": "",
     "calories": 65
-  },
-  {
-    "id": 4,
-    "name": "Banana",
-    "description": "",
-    "calories": 155
-  },
-  {
-    "id": 5,
-    "name": "Orange",
-    "description": "",
-    "calories": 43
-  },
-  {
-    "id": 6,
-    "name": "Bread",
-    "description": "",
-    "calories": 85
-  },
-  {
-    "id": 7,
-    "name": "Beans",
-    "description": "",
-    "calories": 36
   }
 ]
