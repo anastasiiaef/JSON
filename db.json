@@ -1,29 +1,31 @@
-[
-  {
-    "genus": "Cercis",
-    "species": "canadensis",
-    "common": "Eastern Redbud"
-  },
-  {
-    "genus": "Quercus",
-    "species": "rubra",
-    "common": "Red Oak"
-  },
-  {
-    "genus": "Quercus",
-    "species": "alba",
-    "common": "White Oak"
-  },
-  {
-    "id": 2,
-    "name": "Milk",
-    "description": "",
-    "calories": 140
-  },
-  {
-    "id": 3,
-    "name": "Egg",
-    "description": "",
-    "calories": 65
-  }
-]
+{
+  "food": [
+    {
+      "genus": "Cercis",
+      "species": "canadensis",
+      "common": "Eastern Redbud"
+    },
+    {
+      "genus": "Quercus",
+      "species": "rubra",
+      "common": "Red Oak"
+    },
+    {
+      "genus": "Quercus",
+      "species": "alba",
+      "common": "White Oak"
+    },
+    {
+      "id": 2,
+      "name": "Milk",
+      "description": "",
+      "calories": 140
+    },
+    {
+      "id": 3,
+      "name": "Egg",
+      "description": "",
+      "calories": 65
+    }
+  ]
+}
