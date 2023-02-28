@@ -3,50 +3,50 @@
       {
         "id": 1,
         "name": "Apple",
-        "description": "",
-        "calories": 53
+        "description": "1 apple(182g)",
+        "calories": 52
       },
       {
         "id": 2,
         "name": "Milk",
-        "description": "",
-        "calories": 140
+        "description": "100g 1% fat",
+        "calories": 42
       },
       {
         "id": 3,
         "name": "Egg",
-        "description": "",
-        "calories": 65
+        "description": "1 egg",
+        "calories": 155
       },
       {
         "id": 4,
         "name": "Banana",
-        "description": "",
-        "calories": 155
+        "description": "1 banana",
+        "calories": 90
       },
       {
         "id": 5,
         "name": "Orange",
-        "description": "",
-        "calories": 43
+        "description": "1 orange",
+        "calories": 47
       },
       {
         "id": 6,
-        "name": "Bread",
-        "description": "",
-        "calories": 85
+        "name": "Acai",
+        "description": "1 oz.(28g)",
+        "calories": 20
       },
       {
         "id": 7,
         "name": "Beans",
-        "description": "",
-        "calories": 36
+        "description": "10g",
+        "calories": 347
       },
     {
       "id": 8,
       "name": "Avocado",
-      "description": "",
-      "calories": 84
+      "description": "1 avocado",
+      "calories": 240
     }
   ]
 }
